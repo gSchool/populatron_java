@@ -1,4 +1,4 @@
-package com.galvanize;
+package com.emeritus;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.galvanize.reflect;
+package com.emeritus.reflect;
 
 import java.lang.reflect.Method;
 

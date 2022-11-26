@@ -1,4 +1,4 @@
-package com.galvanize;
+package com.emeritus;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

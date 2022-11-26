@@ -1,7 +1,7 @@
-package com.galvanize;
+package com.emeritus;
 
-import com.galvanize.reflect.ClassWrapper;
-import com.galvanize.reflect.WrapperFactory;
+import com.emeritus.reflect.ClassWrapper;
+import com.emeritus.reflect.WrapperFactory;
 import com.google.common.annotations.VisibleForTesting;
 
 import javax.inject.Inject;

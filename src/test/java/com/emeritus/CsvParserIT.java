@@ -1,7 +1,7 @@
-package com.galvanize;
+package com.emeritus;
 
-import com.galvanize.CsvParser;
-import com.galvanize.model.City;
+import com.emeritus.CsvParser;
+import com.emeritus.model.City;
 import com.google.inject.Binder;
 import com.google.inject.Guice;
 import com.google.inject.Injector;

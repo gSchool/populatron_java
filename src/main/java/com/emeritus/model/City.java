@@ -1,4 +1,4 @@
-package com.galvanize.model;
+package com.emeritus.model;
 
 public class City {
     private String country, city, accentCity, region;

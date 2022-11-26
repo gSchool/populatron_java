@@ -1,4 +1,4 @@
-package com.galvanize;
+package com.emeritus;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Guice;

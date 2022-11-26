@@ -1,4 +1,4 @@
-package com.galvanize.model;
+package com.emeritus.model;
 
 public class PersonModel {
     private String firstName, lastName;

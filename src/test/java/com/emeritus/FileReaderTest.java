@@ -1,6 +1,6 @@
-package com.galvanize;
+package com.emeritus;
 
-import com.galvanize.FileReader;
+import com.emeritus.FileReader;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

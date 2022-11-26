@@ -1,6 +1,6 @@
-package com.galvanize.reflect;
+package com.emeritus.reflect;
 
-import com.galvanize.TypeConverter;
+import com.emeritus.TypeConverter;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.lang.reflect.Method;

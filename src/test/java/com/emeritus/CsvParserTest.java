@@ -1,8 +1,8 @@
-package com.galvanize;
+package com.emeritus;
 
-import com.galvanize.model.PersonModel;
-import com.galvanize.reflect.ClassWrapper;
-import com.galvanize.reflect.WrapperFactory;
+import com.emeritus.model.PersonModel;
+import com.emeritus.reflect.ClassWrapper;
+import com.emeritus.reflect.WrapperFactory;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import com.google.inject.Module;

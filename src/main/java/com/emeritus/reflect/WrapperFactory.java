@@ -1,7 +1,7 @@
-package com.galvanize.reflect;
+package com.emeritus.reflect;
 
-import com.galvanize.TypeConverter;
-import com.galvanize.reflect.ClassWrapper;
+import com.emeritus.TypeConverter;
+import com.emeritus.reflect.ClassWrapper;
 
 import javax.inject.Inject;
 

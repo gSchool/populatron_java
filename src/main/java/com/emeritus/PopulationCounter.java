@@ -1,6 +1,6 @@
-package com.galvanize;
+package com.emeritus;
 
-import com.galvanize.model.City;
+import com.emeritus.model.City;
 
 import javax.inject.Inject;
 import java.io.IOException;
